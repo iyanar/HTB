@@ -1,2 +1,0 @@
-# HTB
-Hack the box
